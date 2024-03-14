@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "cover": "https://i.ibb.co/ZcXktqb/cover-1.jpg",
+        "title": "The Importance of Continuous Learning",
+        "author": "John Abraham",
+        "author_img": "https://i.ibb.co/nztvfZy/author-1.jpg",
+        "posted_date": "2024-03-15",
+        "reading_time": 8,
+        "hashtags": [
+            "learning",
+            "self-improvement",
+            "education"
+        ]
+    },
+    {
+        "id": 2,
+        "cover": "https://i.ibb.co/30bzhmT/cover-2.jpg",
+        "title": "Exploring the Universe: A Beginner's Guide to Astronomy",
+        "author": "Jane Austin",
+        "author_img": "https://i.ibb.co/BPX0K81/author-2.jpg",
+        "posted_date": "2024-03-14",
+        "reading_time": 12,
+        "hashtags": [
+            "astronomy",
+            "science",
+            "space"
+        ]
+    },
+    {
+        "id": 3,
+        "cover": "https://i.ibb.co/WxCHdVy/cover-3.jpg",
+        "title": "The Art of Writing: Tips for Aspiring Authors",
+        "author": "Lora Johnson",
+        "author_img": "https://i.ibb.co/j3N7SZG/author-3.jpg",
+        "posted_date": "2024-03-13",
+        "reading_time": 10,
+        "hashtags": [
+            "writing",
+            "creativity",
+            "authorship"
+        ]
+    },
+    {
+        "id": 4,
+        "cover": "https://i.ibb.co/T0PPdmj/cover-4.jpg",
+        "title": "Healthy Eating Habits for a Balanced Life",
+        "author": "Michaela Browny",
+        "author_img": "https://i.ibb.co/9GTcn1J/author-4.jpg",
+        "posted_date": "2024-03-12",
+        "reading_time": 6,
+        "hashtags": [
+            "health",
+            "nutrition",
+            "wellness"
+        ]
+    },
+    {
+        "id": 5,
+        "cover": "https://i.ibb.co/sJzS7k6/cover-5.jpg",
+        "title": "The Power of Meditation: Finding Inner Peace",
+        "author": "Sarah Lee",
+        "author_img": "https://i.ibb.co/b6sRzmr/author-5.jpg",
+        "posted_date": "2024-03-11",
+        "reading_time": 7,
+        "hashtags": [
+            "meditation",
+            "mindfulness",
+            "spirituality"
+        ]
+    }
+]
